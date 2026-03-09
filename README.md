@@ -6,9 +6,6 @@ The project focuses on recreating the layout and design of the original website 
 ## 🌐 Live Demo
 https://ultimate-ears-in.netlify.app/
 
-## 💻 GitHub Repository
-https://github.com/Amrit-raj50/ultimate_ears
-
 ## 🚀 Features
 - Responsive website layout
 - Modern UI design
